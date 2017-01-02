@@ -5,5 +5,5 @@ The schematic was drawn in KiCad. Other files are:
 
 * HCF4056-2-HD.jpg: The die photo from Zeptobars.
 * HCF4056.svg: Inkscape file for die photo with annotations and some traced-out wires.
-* HCF4056-schematic.pdf: The schematic.
-* HCF4056-datasheet.pdf: The datasheet.
+* [HCF4056-schematic.pdf](https://github.com/RobertBaruch/HCF4056/blob/master/HCF4056-schematic.pdf): The schematic.
+* [HCF4056-datasheet.pdf](https://github.com/RobertBaruch/HCF4056/blob/master/HCF4056-datasheet.pdf): The datasheet.
